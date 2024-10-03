@@ -1,1 +1,0 @@
-/usr/lib64/ccache/g++ -g CMakeFiles/hello_world.out.dir/hello_world.cpp.o -o hello_world.out 
