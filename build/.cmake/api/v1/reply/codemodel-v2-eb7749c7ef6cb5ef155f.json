@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Part01/Chapter01",
+					"jsonFile" : "directory-Part01.Chapter01-Debug-6bf79f9e9f0e15acef8e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Part01/Chapter01",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "ppp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "hello_world.out::@2937a5dada4aaa154e00",
+					"jsonFile" : "target-hello_world.out-Debug-18ec6d0375d6a1b8c4e7.json",
+					"name" : "hello_world.out",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/stephenhodgson/Development/cpp/ppp/build",
+		"source" : "/home/stephenhodgson/Development/cpp/ppp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

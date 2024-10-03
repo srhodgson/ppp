@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/stephenhodgson/Development/cpp/ppp/build/Part01/Chapter01",
+  "command": "/usr/lib64/ccache/g++   -g -o CMakeFiles/hello_world.out.dir/hello_world.cpp.o -c /home/stephenhodgson/Development/cpp/ppp/Part01/Chapter01/hello_world.cpp",
+  "file": "/home/stephenhodgson/Development/cpp/ppp/Part01/Chapter01/hello_world.cpp",
+  "output": "Part01/Chapter01/CMakeFiles/hello_world.out.dir/hello_world.cpp.o"
+}
+]
