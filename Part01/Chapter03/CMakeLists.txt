@@ -3,3 +3,4 @@ project(Chapter03)
 
 add_executable(first_name.out first_name.cpp)
 add_executable(name_age.out name_age.cpp)
+add_executable(exercise_operators.out exercise_operators.cpp)
